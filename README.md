@@ -23,6 +23,7 @@ This project presents a solution to relighting drawings, comparing deep learning
 ![Testing image 1 with UI](https://user-images.githubusercontent.com/60660907/181641089-c2f547a7-c379-46d3-9256-48164618b36e.JPG)
 
 ## Example 2 for UI
+### Showning Stroke Density map of the input image
 ![Testing image 2 with UI](https://user-images.githubusercontent.com/60660907/181641125-7d954f19-1d59-472c-a514-617d460f6cc9.JPG)
 
 ## Deep Learning Results
